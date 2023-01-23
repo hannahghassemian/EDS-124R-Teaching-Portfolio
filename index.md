@@ -5,5 +5,5 @@
 [Video of Demonstration](https://youtu.be/XiidP12a834) 
 
 ## Week 2 videos:
-[Code Walkthrough: Repeats](https://youtu.be/kHd0XtbTY_4)
+[Code Walkthrough: Repeats](https://youtu.be/kHd0XtbTY_4)\\
 [Teaching Programming](https://youtu.be/TJbESjsnp6Q)
