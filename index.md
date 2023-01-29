@@ -7,3 +7,6 @@
 ## Week 2 videos:
 [Code Walkthrough: Repeats](https://youtu.be/kHd0XtbTY_4)\\
 [Teaching Programming](https://youtu.be/TJbESjsnp6Q)
+
+## Week 3 Videos:
+[Code Walkthrough: Nested Repeats](https://youtu.be/PxGjjR-9LGM)
