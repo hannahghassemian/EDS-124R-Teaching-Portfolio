@@ -9,4 +9,5 @@
 [Teaching Programming](https://youtu.be/TJbESjsnp6Q)
 
 ## Week 3 Videos:
-[Code Walkthrough: Nested Repeats](https://youtu.be/PxGjjR-9LGM)
+[Code Walkthrough: Nested Repeats](https://youtu.be/PxGjjR-9LGM)\\
+[Monkey Game](https://youtu.be/rJejpuZd9Kw)
