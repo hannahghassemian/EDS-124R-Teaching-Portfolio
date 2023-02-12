@@ -14,3 +14,6 @@
 
 ## Week 4 Videos:
 [Variables Video](https://youtu.be/0sGhyO5hvjo)
+
+## Week 5 Videos:
+[Conditional Loops](https://youtu.be/rVjSObVGnP0)
