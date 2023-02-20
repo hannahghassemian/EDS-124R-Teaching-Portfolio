@@ -17,3 +17,6 @@
 
 ## Week 5 Videos:
 [Conditional Loops](https://youtu.be/rVjSObVGnP0)
+
+## Week 6 Videos:
+[Ball Target Game](https://youtu.be/l6DniLznzlQ)
