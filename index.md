@@ -20,3 +20,6 @@
 
 ## Week 6 Videos:
 [Ball Target Game](https://youtu.be/l6DniLznzlQ)
+
+## Week 7 Videos:
+[Nested If-Else](https://youtu.be/2bU9za16RVo)
