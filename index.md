@@ -23,3 +23,6 @@
 
 ## Week 7 Videos:
 [Nested If-Else](https://youtu.be/2bU9za16RVo)
+
+## Week 8 Videos:
+[Compund Conditionals](https://youtu.be/GjMn2b-SyUM)
