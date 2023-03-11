@@ -26,3 +26,6 @@
 
 ## Week 8 Videos:
 [Compund Conditionals](https://youtu.be/GjMn2b-SyUM)
+
+## Week 9 Videos:
+[Abstraction](https://youtu.be/7CCWjg5y4xs)
