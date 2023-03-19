@@ -29,3 +29,6 @@
 
 ## Week 9 Videos:
 [Abstraction](https://youtu.be/7CCWjg5y4xs)
+
+## Week 10 Videos:
+[Lists](https://youtu.be/zvyjMwYo9Dw)
